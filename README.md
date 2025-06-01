@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammed Rahil Nazar</h1>
+<h3 align="center">BTech CSE'28 @ CUSAT | UI/UX Designer </h3>
 
-<!--
-**Rahilralu/Rahilralu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+<p align="left">
+<a class = "hover" href="https://www.instagram.com/rahil.ralu/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a class = "hover" href="https://www.linkedin.com/in/muhammed-rahil-nazar-ab9393316/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-006400?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-4B0082?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
