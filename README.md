@@ -11,10 +11,15 @@
 <a class = "hover" href="https://www.instagram.com/rahil.ralu/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a class = "hover" href="https://www.linkedin.com/in/muhammed-rahil-nazar-ab9393316/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+ 
+<a href="https://www.linkedin.com/in/muhammed-rahil-nazar-ab9393316/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
+  
+<a href="https://x.com/ralu_rahil" target="_blank">
+  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white&labelWidth=60" alt="X">
+</a>
+  
 </p>
 
 ---
