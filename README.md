@@ -21,6 +21,6 @@ I’m a Tech enthusiast exploring the world of Software development, Game develo
 
 
 [linkedin]:https://www.linkedin.com/in/muhammed-rahil-nazar-ab9393316/
-[gmail]: mailto:nazarrahil0000@gmail.com
-[X]: https://x.com/ralu_rahil
+[gmail]:mailto:nazarrahil0000@gmail.com
+[X]:https://x.com/ralu_rahil
 
