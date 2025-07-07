@@ -11,7 +11,7 @@
 
 ## 🙋‍♂ About Me
 
-I’m a Tech enthusiast exploring the world of Software development, Game development, and AI. I love building cool projects—from web apps to Unity games—and diving deep into topics like Data Structures, Algorithms, and Automation.
+I’m a Tech enthusiast exploring the world of Software development, Game development, and AI I love building cool projects—from web apps to Unity games—and diving deep into topics like Data Structures, Algorithms, and Automation.
 <br></br>
 
 ## 🧰 My Tech Toolbox
