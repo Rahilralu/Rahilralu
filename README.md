@@ -16,7 +16,7 @@ I’m a Tech enthusiast exploring the world of Software development, Game develo
 
 ## 🧰 My Tech Toolbox
 <!-- opencv -->
-[![My Skills](https://skillicons.dev/icons?i=java,py,git,github,cpp,blender,c,figma,kubernetes,js,html,css,linux,docker,kubernates)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,git,github,cpp,blender,c,figma,kubernetes,js,html,css,linux,docker,react,mongodb,nodejs,postman,tailwind)](https://skillicons.dev)
 <br></br>
 
 
