@@ -11,7 +11,7 @@
 
 ## 🙋‍♂ About Me
 
-I’m a Tech enthusiast exploring the world of Software development, Game development, and AI I love building cool projects—from web apps to Unity games—and diving deep into topics like Data Structures, Algorithms, and Automation.
+Hey there! I’m Rahil Nazar — a Full Stack Developer who loves turning ideas into beautiful, functional web apps. I work with React, Java, and Python, and I’m exploring Docker and DevOps to improve my workflow. I also enjoy designing clean and user-focused interfaces.
 <br></br>
 
 ## 🧰 My Tech Toolbox
