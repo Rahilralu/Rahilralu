@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm Muhammmed Rahil Nazar</h1>
+### <h1 align="center">Hi, I'm Muhammed Rahil Nazar</h1>
 <h3 align="center">BTech CSE'28 @ CUSAT | UI/UX Designer </h3>
 
 
